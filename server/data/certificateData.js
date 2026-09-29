@@ -1,11 +1,11 @@
 export const certificateRecord = {
-  certificateId: "NGAT20162318",
+  certificateId: "ngat20162318",
   verified: true,
   verificationMessage: "This certificate has been successfully verified through the official Ministry of Education portal.",
   verificationTimestamp: "2026-09-29T21:36:00Z",
   candidate: {
     fullName: "Abdi kalif abdi",
-    username: "NGAT20162318",
+    username: "ngat20162318",
     gender: "Male",
     examDate: "Sept 2026",
     avatar: "/prof.jpg"
